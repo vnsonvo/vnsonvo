@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-I'm Son
+I'm Son (Hubert)
 
-I am a software engineer from VietNam 🇻🇳. I am interested in reading and developing software solutions.
+I am an engineer from VietNam 🇻🇳. I am interested in reading and developing software solutions.
 I’m looking to collaborate with other developers.
 
 
