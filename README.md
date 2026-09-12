@@ -4,8 +4,8 @@
 
 I'm Son (Hubert)
 
-I am an engineer from VietNam 🇻🇳. I am interested in reading and developing software solutions.
-I’m looking to collaborate with other developers.
+I am an engineer from VietNam 🇻🇳. I am interested in reading and developing solutions.
+I’m looking to collaborate with other engineers.
 
 <!--
 **sondocode/sondocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
